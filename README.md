@@ -26,7 +26,7 @@ A sleek, responsive, and fully customizable **animated portfolio website** built
 ### 1. Clone the Repo
 
 ```bash
-git clone [https://github.com/Akhilkhatri10/akhilesh-portfolio.git]
+git clone [https://github.com/Akhilkhatri10/Akhilesh-Khatri-portfolio.git]
 cd your-repo-name
 ````
 
