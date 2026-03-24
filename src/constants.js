@@ -35,6 +35,7 @@ import ecommerceLogo from './assets/work_logo/ecommercelogo.png';
 import chatApplicationLogo from './assets/work_logo/chatApplicationlogo.png';
 import twitterCloneLogo from './assets/work_logo/twitterClonelogo.png';
 import movieAppLogo from './assets/work_logo/movieapplogo.png';
+import imaginAI_homepage from './assets/work_logo/imaginAI_homepage.png';
 
 export const SkillsInfo = [
   {
@@ -159,6 +160,16 @@ export const projects = [
   },
   {
     id: 3,
+    title: "Text-to-image-Saas Application",
+    description:
+      "A SaaS application that converts text prompts into high-quality images using a third-party API. The app features a user-friendly interface, allowing users to generate, edit, and download images based on their text descriptions.",
+    image: imaginAI_homepage,
+    tags: ["Image Generation", "SaaS", "MERN", "clipdrop API", "razorpay", "resend API"],
+    github: "https://github.com/Akhilkhatri10/Text-to-Image-SaaS-app",
+    webapp: "https://text-to-image-saa-s-app.vercel.app/",
+  },
+  {
+    id: 4,
     title: "Social Media clone Application",
     description:
       "A twitter clone application built with the MERN stack (MongoDB, Express.js, React.js, Node.js). The app features user authentication, profile management, and a news feed for sharing updates and content. It provides a seamless social networking experience for users while allowing administrators to manage users and content efficiently.",
@@ -168,7 +179,7 @@ export const projects = [
     webapp: "https://twitter-clone-frontend-iota-brown.vercel.app/",
   },
   {
-    id: 4,
+    id: 5,
     title: "Movie Application",
     description:
       "A movie application built with React.js that allows users to browse and search for movies using the TMDB API. The app features a responsive design, user authentication, and efficient data handling to provide a seamless movie browsing experience.",
@@ -176,5 +187,5 @@ export const projects = [
     tags: ["React JS", "TMDB API", "Tailwind CSS", "appwrite", "Movie App"],
     github: "https://github.com/Akhilkhatri10/Movie-App",
     webapp: "https://movie-app-opal-phi.vercel.app/",
-  },
+  }
 ];  
