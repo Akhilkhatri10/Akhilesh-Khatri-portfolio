@@ -18,7 +18,7 @@ import githubLogo from './assets/tech_logo/github.png';
 import vscodeLogo from './assets/tech_logo/vscode.png';
 import postmanLogo from './assets/tech_logo/postman.png';
 import mcLogo from './assets/tech_logo/mc.png';
-import figmaLogo from './assets/tech_logo/figma.png';
+import renderLogo from './assets/tech_logo/renderLogo.png'
 import netlifyLogo from './assets/tech_logo/netlify.png';
 import vercelLogo from './assets/tech_logo/vercel.png';
 
@@ -78,7 +78,7 @@ export const SkillsInfo = [
       { name: 'Compass', logo: mcLogo },
       { name: 'Vercel', logo: vercelLogo },
       { name: 'Netlify', logo: netlifyLogo },
-      { name: 'Figma', logo: figmaLogo },
+      { name: 'Render', logo: renderLogo },
     ],
   },
 ];
@@ -96,12 +96,14 @@ export const experiences = [
       "HTML",
       "CSS",
       "JavaScript",
-      "React JS",
-      "Node JS",
-      "Express JS",
+      "React.JS",
+      "Node.JS",
+      "Express.JS",
       "MongoDB",
       "Tailwind CSS",
-      "Redux"
+      "Redux",
+      "Socket.io",
+      "Razorpay"
     ],
   },
 ];
