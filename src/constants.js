@@ -138,7 +138,7 @@ export const projects = [
     image: jobhuntLogo,
     tags: ["React JS", "API Integration", "Job Search", "HTML", "CSS", "JavaScript"],
     github: "https://github.com/Akhilkhatri10/JobHunt",
-    webapp: "https://job-hunt-frontend-five.vercel.app/",
+    webapp: "https://job-hunt-beta.vercel.app/",
   },
   {
     id: 1,
