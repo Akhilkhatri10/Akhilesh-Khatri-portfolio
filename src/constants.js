@@ -36,7 +36,7 @@ import chatApplicationLogo from './assets/work_logo/chatApplicationlogo.png';
 import twitterCloneLogo from './assets/work_logo/twitterClonelogo.png';
 import movieAppLogo from './assets/work_logo/movieapplogo.png';
 import imaginAI_homepage from './assets/work_logo/imaginAI_homepage.png';
-import learnAILogo from './assets/work_logo/LearnAIlogo.png';
+import learnAILogo from './assets/work_logo/LearnAI_logo.png';
 
 export const SkillsInfo = [
   {
